@@ -1,60 +1,55 @@
 # 👋 Hello, I'm Yeferson Soto / Hola, soy Yeferson Soto
 
-    <p align="center">
-      <a href="#english">🇬🇧 English</a> • <a href="#español">🇪🇸 Español</a>
-    </p>
+<p align="center">
+  <a href="#english">🇬🇧 English</a> • <a href="#español">🇪🇸 Español</a>
+</p>
 
-    ---
+---
 
-    <h2 id="english">🇬🇧 English</h2>
+<h2 id="english">🇬🇧 English</h2>
 
-    I am a **Frontend Developer** and **Computer Technician** based in Chile, focused on
-  building modern, fast, and optimized web applications.
+I'm a **Frontend Developer** and **Computer Technician** based in Chile. I build web interfaces with a focus on usability, responsive design, and maintainable code.
 
-    My interest in technology started with hardware and building computers, which gave me
-  the foundation to dive into the world of coding, software development, and my passion
-  for video games.
+My background in computer hardware sparked my interest in technology and led me to software development.
 
-    ### 🛠️ Tech Stack & Tools
-    - **Core:** HTML5, CSS3, JavaScript (Vanilla)
-    - **Frameworks & Libraries:** React.js, Astro
-    - **Other Skills:** Technical Support, Hardware Maintenance
+### 🛠️ Skills
 
-    ### 🚀 About me
-    - 🔭 Currently focused on building web projects and polishing my Frontend skills with
-  **React and Astro**.
-    - 🌱 Actively looking for my first formal tech role as a **Trainee / Junior Frontend
-  Developer**.
-    - 💼 Also open to taking on freelance projects to gain real-world experience.
+- **Core:** HTML, CSS, JavaScript
+- **Frameworks:** React, Astro
+- **Other:** Technical support and computer hardware maintenance
 
-    ### 📫 Let's Connect
-    - [LinkedIn - linkedin.com/in/duquerson](https://www.linkedin.com/in/duquerson)
+### 🚀 Currently
 
-    ---
+- Building projects and improving my frontend development skills.
+- Looking for a **Junior Frontend Developer** opportunity.
+- Open to freelance projects and technical collaboration.
 
-    <h2 id="español">🇪🇸 Español</h2>
+### 📫 Contact
 
-    Soy un **Desarrollador Frontend** y **Técnico en Computación** de Chile, enfocado en
-  construir aplicaciones web modernas, rápidas y optimizadas.
+- [LinkedIn](https://www.linkedin.com/in/duquerson)
+- [GitHub](https://github.com/duquerson)
 
-    Mi interés por la tecnología nació desde el hardware y el ensamblaje de equipos, lo
-  cual me dio las bases para adentrarme en el mundo del código, el desarrollo de software
-  y mi pasión por los videojuegos.
+---
 
-    ### 🛠️ Tecnologías y Herramientas
-    - **Core:** HTML5, CSS3, JavaScript (Vanilla)
-    - **Frameworks & Librerías:** React.js, Astro
-    - **Otros:** Soporte Técnico, Mantenimiento de Hardware
+<h2 id="español">🇪🇸 Español</h2>
 
-    ### 🚀 Sobre mí
-    - 🔭 Actualmente enfocado en desarrollar proyectos web y pulir mis habilidades de
-  Frontend con **React y Astro**.
-    - 🌱 Buscando activamente mi primera oportunidad laboral formal como **Trainee /
-  Junior Frontend Developer**.
-    - 💼 Abierto también a tomar proyectos freelance para seguir ganando experiencia real.
+Soy **Desarrollador Frontend** y **Técnico en Computación**, de Chile. Construyo interfaces web con foco en usabilidad, diseño adaptable y código mantenible.
 
-    ### 📫 Conecta conmigo
-    - [LinkedIn - linkedin.com/in/duquerson](https://www.linkedin.com/in/duquerson)
+Mi experiencia con hardware despertó mi interés por la tecnología y me llevó al desarrollo de software.
 
-I am open to frontend and full-stack opportunities, freelance projects, and
-technical collaborations.
+### 🛠️ Habilidades
+
+- **Fundamentos:** HTML, CSS, JavaScript
+- **Frameworks:** React, Astro
+- **Otros:** Soporte técnico y mantenimiento de equipos
+
+### 🚀 Actualmente
+
+- Desarrollo proyectos y sigo fortaleciendo mis habilidades de frontend.
+- Busco una oportunidad como **Desarrollador Frontend Junior**.
+- Estoy abierto a proyectos freelance y colaboraciones técnicas.
+
+### 📫 Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/duquerson)
+- [GitHub](https://github.com/duquerson)
